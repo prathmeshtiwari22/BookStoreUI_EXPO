@@ -18,7 +18,7 @@
   - **Notification Settings**: Customization options for user notifications.
   - **Empty Notifications**: Informative screen for when there are no notifications available.
 
-![  Notification](assets/dashboard.png)
+
 
 ## Technologies Used
 
